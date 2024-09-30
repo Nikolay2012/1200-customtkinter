@@ -1,0 +1,14 @@
+{
+   "mainframe": {
+        "width": 800,
+        "height": 600,
+        "title": "My Weather App",
+        "icon": "mainframe.ico"
+   },
+   "widget": {
+        "width": 150,
+        "height": 150,
+        "title": "Weather",
+        "icon": "widget.ico"
+   }
+}
